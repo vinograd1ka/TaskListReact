@@ -1,2 +1,2 @@
 # TaskListReact
-creating a task list list using Context, Hooks, Animations, Deploy
+creating a task list list using Hooks
